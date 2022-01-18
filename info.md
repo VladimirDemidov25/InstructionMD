@@ -38,3 +38,6 @@
 > git checkout master
 
 Вернуться к акутальному состоянию
+
+![error](123.jpg)
+
